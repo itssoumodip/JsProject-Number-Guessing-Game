@@ -1,2 +1,3 @@
 # JsProject-Number-Guessing-Game
-This repository contains a web-based number guessing game built using HTML, CSS, and JavaScript. The game challenges users to guess a randomly generated number between 1 and 100 within 10 attempts. The interface is designed to be user-friendly and responsive, providing clear feedback on each guess.
+
+This project is a simple number guessing game created using HTML, CSS, and JavaScript. The objective of the game is to guess a random number between 1 and 100. The user has 10 attempts to guess the correct number. After each guess, the game provides feedback on whether the guess is too low or too high, and how many attempts remain.
